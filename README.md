@@ -18,4 +18,4 @@ The data for this project is a user generated csv file. This means that the user
 The code uses OOP to track the users' spending habits. A class object is created called 'finances' that reads in and separates the csv into categories, aggregates across categories, and then provides totals and a net income for the user.
 
 ### Use it
-The most important part is that the user continously updates the csv file! 
+The most important part is that the user continously updates the csv file and runs the script! 
