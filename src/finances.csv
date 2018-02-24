@@ -1,0 +1,10 @@
+Date,In_or_Out,Amount,Category
+2/23/18,In,350,Paycheck
+2/23/18,Out,50,Food
+2/23/18,Out,40,Copay
+2/23/18,Out,25,Food
+0,Out,65,Food
+56,Out,250,Rent
+567,Out,67,Taxes
+567,In,25,Gift
+567,Out,40,Copay
