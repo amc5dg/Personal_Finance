@@ -5,8 +5,8 @@ This project is a simple code for tracking one's personal finances
 ### Table of Contents
 * [Motivation](#motivation)
 * [Data](#data)
-* [Methodolgy](#code)
-* [Continued Usage](#use-it)
+* [Code](#code)
+* [Usage](#use-it)
 
 ### Motivation
 Keeping track of finances is an important part of our everyday lives. Even though we can look at our transaction history online, it doesn't give us a clear picture of our spending habits are. For example we may wish to see what the catgorical breakdown of our spendings are. For example I may wish to see how much of my income is spent on foodj or gas. This project's goal is to provide that breakdown of our spending habits.
